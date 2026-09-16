@@ -1,8 +1,10 @@
 16/09/2026
 
-<!-- notify 1/2 · 7W2nZWu2 -->
-## Notification 1/2
-Round: Round 1
-To: morataya4life@yahoo.com, moratel_entlebuchers@yahoo.com
-At: 2026-09-16 17:46:37
-Id: 7W2nZWu2
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: morbid_88@yahoo.com, morbid_crystal@yahoo.com
+At: 2026-09-16 17:47:35
+Id: 7FgcoKjv
